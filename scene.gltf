@@ -122,13 +122,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Basic_baseColor.jpeg"
+      "uri": "textures/Basic_baseColor.jpg"
     },
     {
-      "uri": "textures/Basic_metallicRoughness.png"
+      "uri": "textures/Basic_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/Basic_normal.png"
+      "uri": "textures/Basic_normal.jpg"
     }
   ],
   "materials": [
