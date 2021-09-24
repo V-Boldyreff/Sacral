@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mausaleum
+* source:	https://sketchfab.com/3d-models/mausaleum-1c2b681d01bd49aeb5f104ac09d3b8c8
+* author:	Vitaliy Boldyrev (https://sketchfab.com/boldyrev.vitaliy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mausaleum" (https://sketchfab.com/3d-models/mausaleum-1c2b681d01bd49aeb5f104ac09d3b8c8) by Vitaliy Boldyrev (https://sketchfab.com/boldyrev.vitaliy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
