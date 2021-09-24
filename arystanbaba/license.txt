@@ -1,0 +1,11 @@
+Model Information:
+* title:	ArystanBaba
+* source:	https://sketchfab.com/3d-models/arystanbaba-4583863466a44c448ef1ae2dacfa8ca2
+* author:	Vitaliy Boldyrev (https://sketchfab.com/boldyrev.vitaliy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ArystanBaba" (https://sketchfab.com/3d-models/arystanbaba-4583863466a44c448ef1ae2dacfa8ca2) by Vitaliy Boldyrev (https://sketchfab.com/boldyrev.vitaliy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
