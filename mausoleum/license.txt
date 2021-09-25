@@ -1,0 +1,11 @@
+Model Information:
+* title:	mausoleum
+* source:	https://sketchfab.com/3d-models/mausoleum-a240920ac0b447ad87f56e9e112dcb5c
+* author:	Vitaliy Boldyrev (https://sketchfab.com/boldyrev.vitaliy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "mausoleum" (https://sketchfab.com/3d-models/mausoleum-a240920ac0b447ad87f56e9e112dcb5c) by Vitaliy Boldyrev (https://sketchfab.com/boldyrev.vitaliy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
